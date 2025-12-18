@@ -7,4 +7,3 @@ simulation, and an output resistance of 100 . The load is a speaker which can
 resistor. For the BJT transistors, use the 2N5210 for the common emitter amplifier stages and generic
 NPN and PNP BJTs for the Darlington pairs of the Class AB push-pull amplifier. All of the
 aforementioned BJT transistors can be found in the LTSpice library.
-
